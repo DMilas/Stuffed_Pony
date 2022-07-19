@@ -2418,7 +2418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 662693351}
   m_Layer: 0
-  m_Name: TestCommit
+  m_Name: TestCommit2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
